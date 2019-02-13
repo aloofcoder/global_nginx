@@ -1,1 +1,1 @@
-# global_nginx
+#nginx全局网关配置
